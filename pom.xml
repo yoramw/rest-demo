@@ -9,7 +9,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<gs.version>15.2.0-m12</gs.version>
-        <spring.version>5.1.7.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <exclude.tests>nothing-to-exclude</exclude.tests>
         <jsondoc-version>1.1.1</jsondoc-version>
         <jackson.version>2.9.9</jackson.version>
