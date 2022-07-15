@@ -13,7 +13,7 @@
         <exclude.tests>nothing-to-exclude</exclude.tests>
         <jsondoc-version>1.1.1</jsondoc-version>
         <jackson.version>2.9.9</jackson.version>
-        <jackson-databind.version>2.9.9.3</jackson-databind.version>
+        <jackson-databind.version>2.12.6.1</jackson-databind.version>
     </properties>
     <repositories>
         <repository>
